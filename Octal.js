@@ -1,0 +1,1 @@
+var hex = 0xff

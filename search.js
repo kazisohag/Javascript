@@ -1,5 +1,5 @@
-var list = ['a','g','t','w','d','v','b']
-var src = 'x'
+var list = [1,3,7,9,3,5,6,0,11,20,30,33,31,56,98]
+var src = Math.round(Math.random()*100)
 var khoj = false
 
 console.log(" ")
